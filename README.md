@@ -1,4 +1,4 @@
-# Hi there, I'm Christian Morny! 👋
+# Hi there, I'm Morny Christian! 👋
 
 I am an **Information Technology** student at BlueCrest University College and an **Independent Data Specialist / IT Assistant** based in Accra, Ghana. I leverage computational logic to analyze data structures, optimize relational databases, and systematically build my foundations toward advanced network security and ethical hacking.
 
