@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Christian Morny! 👋
 
-<!--
-**Chriswittycodes/Chriswittycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Information Technology** student at BlueCrest University College and an **Independent Data Specialist / IT Assistant** based in Accra, Ghana. I leverage computational logic to analyze data structures, optimize relational databases, and systematically build my foundations toward advanced network security and ethical hacking.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Languages & Scripting:** Python, SQL (Structured Query Language)
+- **Data & Databases:** Data Analysis, Relational Databases (DBMS), Data Processing
+- **Infrastructure & IT Support:** System Configuration, Hardware Troubleshooting, Basic Networking Foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Learning & Academic Roadmap
+- 🎓 Currently pursuing a **Diploma in Information Technology** at BlueCrest College.
+- 🎯 Mastering core programming logic, algorithms, and advanced database schemas.
+- 🛡️ Climbing the ladder toward Systems Architecture, Network Security, and Penetration Testing.
+
+### 📈 GitHub Stats
+![Christian's GitHub Stats](https://vercel.app)
+
+### 📫 Let's Connect!
+- **Email:** mornychristian@gmail.com
